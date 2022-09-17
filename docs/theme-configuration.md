@@ -6,7 +6,7 @@ slug: code-overview
 ---
 ## Changing logo
 
-Since there is a bright and a dark themes in Jamdocs, you will need two logotypes. Just replace the two svg files in `src/assets/img` where the dark on is named `logo-dark.svg` and the bright one is named `logo-bright.svg`. If you can´t provide SVG logos, you can just change the file format to for example PNG in line 5 and 10 `src/components/Logo.vue`.
+Since there is a bright and a dark themes in Edurata, you will need two logotypes. Just replace the two svg files in `src/assets/img` where the dark on is named `logo-dark.svg` and the bright one is named `logo-bright.svg`. If you can´t provide SVG logos, you can just change the file format to for example PNG in line 5 and 10 `src/components/Logo.vue`.
 
 ## Adding icons
 
@@ -50,7 +50,7 @@ $brandPrimary: #10c186;
 
 ## Changing font
 
-Jamdocs uses Source Sans Pro by default. I chose to embed the font in the project to increase page speed. To change the font, you just install another Google Font as a dependency, lets say you want Open Sans:
+Edurata uses Source Sans Pro by default. I chose to embed the font in the project to increase page speed. To change the font, you just install another Google Font as a dependency, lets say you want Open Sans:
 
 ```bash
 yarn add typeface-open-sans
