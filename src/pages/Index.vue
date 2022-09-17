@@ -8,7 +8,6 @@
         <Shortcut link="/theme-configuration" text="Configuration" icon="sliders-icon" />
         <Shortcut link="/theme-configuration#changing-colors" text="Change colors" icon="eye-icon" />
       </nav>
-      <GitLink class="git" size="large" />
     </div>
   </Layout>
 </template>
@@ -32,14 +31,14 @@ export default {
   },
   data() {
     return {
-      description: 'The ultimate static generated documentation theme for the JAM-stack'
+      description: 'The ultimate static generated documentation theme for the Edurata documentation'
     }
   },
   metaInfo() {
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
+        { key: 'description', name: 'description', content: 'The ultimate static generated documentation theme for the Edurata documentation.' }
       ]
     }
   }

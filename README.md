@@ -1,14 +1,14 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/de44d168-eb1d-47a5-8731-d77bb40af7c8/deploy-status)](https://app.netlify.com/sites/jamdocs/deploys)
 
-# ![Jamdocs](https://github.com/samuelhorn/jamdocs/blob/master/src/assets/img/logo-dark.svg)
+# ![Eduratadocs](https://edurata.com/c1cabe13fb299da2799c8103cd3b426b.png)
 
-The ultimate static generated documentation theme for the JAM-stack. Highly customizable, based on Gridsome, ready to deploy to Netlify in one click. [DEMO](https://jamdocs.samuelhorn.com/)
+The ultimate static generated documentation theme for the Edurata. Highly customizable, based on Gridsome, ready to deploy to Netlify in one click. [DEMO](https://jamdocs.samuelhorn.com/)
 
 _Beware, Jamdocs is still in heavy development and will probably change a lot in the near future. And the docs for it is still not completed._
 
 ## Fast by default
 
-Jamdocs is optimized to be as fast as possible, right now generating 100/100/100/100 score in Google Lighthouse. And 100/100 score in Google Page Speed Insights.
+Eduratadocs is optimized to be as fast as possible, right now generating 100/100/100/100 score in Google Lighthouse. And 100/100 score in Google Page Speed Insights.
 
 ![100/100/100/100 Lighthouse scores](https://github.com/samuelhorn/jamdocs/blob/master/src/assets/img/pagespeed.png)
 

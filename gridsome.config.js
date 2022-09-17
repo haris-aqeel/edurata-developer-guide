@@ -16,8 +16,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Jamdocs',
-  siteUrl: 'https://jamdocs.samuelhorn.com',
+  siteName: 'Edurata',
+  siteUrl: 'https://developer-edurata.netlify.app/',
   templates: {
     Doc: '/:slug',
   },
