@@ -16,7 +16,7 @@ Even though Edurata is simple, we will guide you through setting it up locally.
 There are mainly two repositories that are related to Edurata.
 
 1. Edurata Frontend
-2. Eduarata Backend
+2. Edurata Backend
 
 Both repositories of Edurata are present on Gitlab. You need the owner to assign you the permissions in order to view, edit and write on the repositories.
 
@@ -37,8 +37,8 @@ When you open this link in your browser, you may see a screen as shown below.
 
 When you go through the sign-in options, you need credentials in order to sign in. As far as **developers** are concerned. They **should NOT signup** instead they should ask for the **credentials from their contractor**.
 
-After they signed up, you will be redirected to the dashboard and other workflow pages. As far as the frontend process is concerned, you are good to start your **development stuff according** to the instructions. 
+After they signed up, you will be redirected to the dashboard and other workflow pages. As far as the frontend process is concerned, you are good to start your **development stuff according** to the instructions.
 
 ### **Backend Repository Steps:**
 
-As far as backend setup is concerned, it is a little bit tricky as compared to the frontend stuff. You need to proceed with the following steps with special care in order to make everything right. 
+As far as backend setup is concerned, it is a little bit tricky as compared to the frontend stuff. You need to proceed with the following steps with special care in order to make everything right.
